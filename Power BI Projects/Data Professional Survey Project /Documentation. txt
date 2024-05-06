@@ -1,0 +1,27 @@
+Analyzing Professional Perspectives in Work Life
+
+This project utilized a survey dataset collected from around 700 professionals to analyze different aspects of their work life. The dataset includes information on job titles, career transitions, salary, industry, programming preferences, job satisfaction, work-life balance, and more.
+
+Data Processing and Cleaning
+
+Conducted data validation and standardization to ensure data consistency and accuracy.
+Performed data cleaning to prepare the dataset for analysis.
+Key Insights
+
+Salary Range: Analyzed salary trends across job titles, gender, age, and country to understand compensation patterns.
+Programming Languages: Assessed the popularity of programming languages among professionals to identify industry preferences.
+Salary Satisfaction: Evaluated professionals' satisfaction with their salaries based on various factors.
+Breaking into Tech: Investigated the perceived difficulty of entering the tech industry.
+Work-Life Balance: Explored professionals' perspectives on work-life balance and its significance in their lives.
+Visualizations
+
+Developed six visualizations, including stack-bar charts, pie charts, and heatmaps, to represent key findings.
+Utilized DAX and conditional formatting to create calculated columns for specific visualizations.
+Conclusion
+This project provided valuable insights into the work life of professionals, showcasing trends and challenges in the professional world. Through compelling visualizations, I was able to communicate important findings and offer a comprehensive view of professional perspectives.
+
+
+
+
+
+
